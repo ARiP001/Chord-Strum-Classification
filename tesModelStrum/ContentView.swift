@@ -12,7 +12,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack(spacing: 40) {
-            Text("🎶 Strum Master ganti")
+            Text("🎶 Strum Master ganti lagu 🎶")
                 .font(.system(size: 34, weight: .black, design: .rounded))
             
             // Area Permainan Visual
