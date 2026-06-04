@@ -9,6 +9,9 @@ import SwiftUI
 
 struct Branching: View {
     var body: some View {
-        Text("Punten Jawa")
+        VStack{
+            Text("Punten Jawa")
+            Text("SAYA AKAN LAWAN")
+        }
     }
 }
